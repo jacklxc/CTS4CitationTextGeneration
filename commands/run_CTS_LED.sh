@@ -1,0 +1,1 @@
+python CTS_LED_trainer.py --train_retrieved_ids retrieved_train_doc_ids.jsonl --distant_retrieved_ids retrieved_distant_doc_ids.jsonl --dev_retrieved_ids retrieved_test_doc_ids.jsonl --dominant_only --checkpoint CTS_citation_span_generator --epoch 3

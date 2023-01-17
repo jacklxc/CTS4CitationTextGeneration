@@ -1,0 +1,1 @@
+python CTS_LED_no_trainer.py --train_retrieved_ids retrieved_train_doc_ids.jsonl --distant_retrieved_ids retrieved_distant_doc_ids.jsonl --dev_retrieved_ids retrieved_test_doc_ids.jsonl --dominant_only --model_name_or_path CTS_citation_span_generator/checkpoint-16000 --num_train_epochs 1 --output_dir LED_CTS_citation_span_generation.jsonl --prediction_only

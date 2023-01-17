@@ -1,0 +1,1 @@
+python train_RAG.py --per_device_train_batch_size 3 --per_device_eval_batch_size 1 --dominant_only --output_dir CTS_RAG_DPR.jsonl --n_docs 5 --num_train_epochs 1 --rag_path facebook/rag-sequence-base --generator_path bart_base_span_generator/checkpoint-2000 --auto_regressive --prediction_only --use_fid --num_beams 1
