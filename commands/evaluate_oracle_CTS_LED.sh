@@ -1,1 +1,0 @@
-python CTS_LED_no_trainer.py --dominant_only --model_name_or_path oracle_CTS_citation_span_generator/checkpoint-15500 --num_train_epochs 1 --output_dir LED_oracle_CTS_citation_span_generation.jsonl --use_oracle --prediction_only
