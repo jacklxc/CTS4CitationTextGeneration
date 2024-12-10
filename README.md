@@ -1,6 +1,7 @@
 # CTS4CitationTextGeneration
 
 Implementation for paper [Cited Text Spans for Scientific Citation Text Generation](https://aclanthology.org/2024.sdp-1.9/).
+A [video](https://youtu.be/9LJp2veJ0tY) is available.
 
 ## Resources
 * Cleaned annotation by for [AbuRa'ed et al. (2020)](https://aclanthology.org/2020.lrec-1.824/): [link](https://drive.google.com/file/d/1uExx2YqR1sUjBnZ4qx6kJ6-JqMKtQ41E/view?usp=drive_link)
